@@ -31,7 +31,7 @@ gem 'high_voltage', '~> 2.2.0'
 
 group :test, :development do
   gem 'rspec-rails'
-  gem 'capybara', '1.1.4'
+  gem 'capybara', '~> 2.2.0'
 end
 
 group :doc do
